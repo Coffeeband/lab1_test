@@ -1,0 +1,6 @@
+export const abs = a => Math.abs(a)
+export const floor = a => Math.floor(a)
+export const ceil = a => Math.ceil(a)
+export const log2 = a => Math.log2(a)
+export const exp = a => Math.exp(a)
+export const sin = a => Math.sin(a)
